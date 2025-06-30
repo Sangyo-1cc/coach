@@ -1,0 +1,2 @@
+# coach
+AI squat coach
